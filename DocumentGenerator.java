@@ -1,4 +1,4 @@
-
+//ignore
 public abstract class DocumentGenerator {
 
     // The template method
